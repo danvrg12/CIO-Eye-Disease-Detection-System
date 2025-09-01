@@ -155,10 +155,6 @@ Contributions are welcome! Here's how you can help:
 - Test with various image types
 - Update documentation as needed
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - **TensorFlow/Keras** - Deep learning framework
